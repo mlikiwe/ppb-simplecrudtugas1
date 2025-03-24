@@ -1,16 +1,20 @@
-# tugas1
+# Tugas 1 PPB C Simple CRUD Flutter App
+| Name           | NRP        | Kelas     |
+| ---            | ---        | ----------|
+| Ivan Fairuz Adinata | 5025221167 | Pemrograman Perangkat Bergerak C |
 
-A new Flutter project.
+## Referensi :
 
-## Getting Started
+- Github : https://github.com/otabekinha/todo_app_flutter.git
+- Youtube : https://youtu.be/VfdTUKt21Ls?si=SvJVOSJXKsykVpHs
 
-This project is a starting point for a Flutter application.
+## Penjelasan Aplikasi
 
-A few resources to get you started if this is your first Flutter project:
+Aplikasi yang saya clone merupakan aplikasi simple todo list. Di dalam aplikasinya, user dapat menambahkan tasks, mencentang tasks, dan menghapus tasks.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Modifikasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Saya menambahkan dan memodifikasi beberapa hal, yaitu:
+- Fitur Edit. Unuk memenuhi kriteria tugas CRUD, aplikasi yang saya clone belum memiliki unsur Update atau fitur edit. Saya menambahkan fungsi untuk membuat user bisa mengedit task yang sudah dibuat.
+- Penyesuaian urutan task. Saya melakukan sortir terhadap Uncompleted Task dan Completed Task. Ketika user menambahkan task baru, task akan otomatis berada pada urutan paling atas. Lalu, apabila user mencentang task yang sudah dikerjakan, maka task tersebut akan berpindah ke bawah, ke section Completed Task.
+- Font dan Warna. Saya menambahkan folder fonts di mana saya melakukan import font ttf yang telah saya download sebelumnya. Selain itu, saya mengubah warna pada setiap elemen page dari yang sebelumnya dibuat oleh creator otabekinha.
