@@ -20,4 +20,5 @@ Saya menambahkan dan memodifikasi beberapa hal, yaitu:
 - Font dan Warna. Saya menambahkan folder fonts di mana saya melakukan import font ttf yang telah saya download sebelumnya. Selain itu, saya mengubah warna pada setiap elemen page dari yang sebelumnya dibuat oleh creator otabekinha.
 
 ## Video Demo
+![alt text](screenshot/image.png)
 Link Youtube : https://youtu.be/1XeQVvB5JlE
